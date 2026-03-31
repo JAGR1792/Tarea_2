@@ -90,5 +90,7 @@ c : 'c'
 
 WS : [ \t\r\n]+ -> skip ;
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b84acff6-3f85-432b-8f42-2aae7c035deb" />
+
 
 Nota: la entrada valida mas larga de esta gramatica es corta (maximo 5 tokens), por lo que para evidenciar el crecimiento de CYK se incluyen entradas largas rechazadas en tiempo de analisis.
