@@ -1,0 +1,62 @@
+a b bas
+a b bas c
+a big boss
+a big c boss
+a big boss c
+a big c boss c
+a bas
+big c boss
+a b bas c c c
+a b bas c c c c
+a b bas c c c c c
+a big c boss c c c
+a big c boss c c c c
+a big c boss c c c c c
+a b bas c c c c c c c c
+a b bas c c c c c c c c c c
+a big c boss c c c c c c c c
+a big c boss c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a big c boss c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
+a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas a b bas
