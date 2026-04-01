@@ -31,6 +31,16 @@ Este repositorio compara el rendimiento de dos enfoques de analisis sintactico:
 ## Instalacion
 
 ```bash
+git clone https://github.com/JAGR1792/Tareas.git
+cd Tareas
+git fetch --all
+git switch Tarea_2
+git pull --ff-only
+```
+
+Luego prepara el entorno local:
+
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
