@@ -31,10 +31,8 @@ Este repositorio compara el rendimiento de dos enfoques de analisis sintactico:
 ## Instalacion
 
 ```bash
-git clone https://github.com/JAGR1792/Tareas.git
-cd Tareas
-git fetch --all
-git switch Tarea_2
+git clone https://github.com/JAGR1792/Tarea_2.git
+cd Tarea_2
 git pull --ff-only
 ```
 
